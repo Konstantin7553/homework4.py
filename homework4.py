@@ -1,0 +1,8 @@
+#my_string = (input('Введите ваше имя'))
+#length_of_string = len(my_string)
+#print("Количество символов в введенном тексте:", length_of_string)
+print('Введите ваше имя'.upper())
+print('Введите ваше имя'.lower())
+print('Введите ваше имя'.replace(' ', '#'))
+print('Введите ваше имя'[0] )
+print('Введите ваше имя'[-1] )
